@@ -1,0 +1,13 @@
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.Properties.Resources.resources
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.csproj.GenerateResource.Cache
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\bin\Debug\Bank_savings_system.exe
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\bin\Debug\Bank_savings_system.pdb
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.exe
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.pdb
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.登陆界面.resources
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.注册界面.resources
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.csprojResolveAssemblyReference.cache
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.主界面.resources
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.取款界面.resources
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.存款界面.resources
+C:\Users\Charyer\Desktop\Bank_savings_system\Bank_savings_system\obj\x86\Debug\Bank_savings_system.查看界面.resources
